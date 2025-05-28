@@ -11,8 +11,8 @@
 ## 🚀 Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/C++ -00599C?logo=c%2b%2b&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python -3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" />
 </p>
 
@@ -27,13 +27,13 @@
 
 ---
 
-
 ## 📬 Connect with me
 
-- 📧 Email: [abdelrahmanaraby9@gmail.com](mailto:abdelrahmanaraby9@gmail.com)
+- 📧 Email: [abdelrahmanaraby9@gmail.com](mailto:abdelrahmanaraby9@gmail)
 - 🐦 Follow me on GitHub:  
   ![GitHub followers](https://img.shields.io/github/followers/MoazIbrahim3?label=Follow&style=social)
 
 ---
 
+> I am currently a student at BIS Modern Academy.  
 > “Keep pushing forward. Every line of code brings you closer to mastery.” 💪
